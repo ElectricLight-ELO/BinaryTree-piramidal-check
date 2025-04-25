@@ -1,0 +1,151 @@
+<BinaryTree>
+    <Node value="4">
+        <Left>
+            <Node value="8">
+                <Left>
+                    <Node value="24">
+                        <Left>
+                            <Node value="51">
+                                <Left>
+                                    <Node value="100">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Left>
+                                <Right>
+                                    <Node value="106">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Right>
+                            </Node>
+                        </Left>
+                        <Right>
+                            <Node value="54">
+                                <Left>
+                                    <Node value="200">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Left>
+                                <Right>
+                                    <Node value="115">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Right>
+                            </Node>
+                        </Right>
+                    </Node>
+                </Left>
+                <Right>
+                    <Node value="30">
+                        <Left>
+                            <Node value="59">
+                                <Left>
+                                    <Node value="121">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Left>
+                                <Right>
+                                    <Node value="129">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Right>
+                            </Node>
+                        </Left>
+                        <Right>
+                            <Node value="68">
+                                <Left>
+                                    <Node value="135">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Left>
+                                <Right>
+                                    <Node value="137">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Right>
+                            </Node>
+                        </Right>
+                    </Node>
+                </Right>
+            </Node>
+        </Left>
+        <Right>
+            <Node value="21">
+                <Left>
+                    <Node value="37">
+                        <Left>
+                            <Node value="73">
+                                <Left>
+                                    <Node value="143">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Left>
+                                <Right>
+                                    <Node value="153">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Right>
+                            </Node>
+                        </Left>
+                        <Right>
+                            <Node value="81">
+                                <Left>
+                                    <Node value="158">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Left>
+                                <Right>
+                                    <Node value="165">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Right>
+                            </Node>
+                        </Right>
+                    </Node>
+                </Left>
+                <Right>
+                    <Node value="45">
+                        <Left>
+                            <Node value="86">
+                                <Left>
+                                    <Node value="172">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Left>
+                                <Right>
+                                    <Node value="175">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Right>
+                            </Node>
+                        </Left>
+                        <Right>
+                            <Node value="92">
+                                <Left>
+                                    <Node value="184">
+                                        <Left/>
+                                        <Right/>
+                                    </Node>
+                                </Left>
+                                <Right/>
+                            </Node>
+                        </Right>
+                    </Node>
+                </Right>
+            </Node>
+        </Right>
+    </Node>
+</BinaryTree>
